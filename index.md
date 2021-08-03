@@ -1,15 +1,15 @@
 ---
-title: About Alembic
+title: About CFC
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Cyber Friends Circle
+  A group of misfits across industries making friendships, sharing knowledge, and talking cyber.
 feature_image: "https://github.com/cyberfriendscircle/cyberfriendscircle.github.io/blob/e8696d195c28b29e9ee7e571bb52a96a21b132c7/assets/female-731495_1920.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "The Cyber Friends Circle was created for a place to share information and ask questions on all things "cyber". We also enjoy talking about unrelated things to work because we are a family and it’s all about getting to know and support each other."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+The Cyber Friends Circle was created for a place to share information and ask questions on all things "cyber". We also enjoy talking about unrelated things to work because we are a family and it’s all about getting to know and support each other.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Buy CFC a coffee ☕️" link="https://www.buymeacoffee.com/cyberfriendsC#support" color="#f68140" %} {% include button.html text="Tweet us" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} 
 
 ## Features
 
