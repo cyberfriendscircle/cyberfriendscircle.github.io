@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: About CFC
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Cyber Friends Circle
+  A group of misfits across industries making friendships, sharing knowledge, and talking cyber
+feature_image: "https://github.com/cyberfriendscircle/cyberfriendscircle.github.io/raw/main/assets/female-731495_1920.jpg"
+excerpt: "The Cyber Friends Circle was created for a place to share information and ask questions on all things cyber. We also enjoy talking about unrelated things to work because we are a family and it's all about getting to know and support each other."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
