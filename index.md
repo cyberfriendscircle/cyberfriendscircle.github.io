@@ -9,7 +9,7 @@ excerpt: "The Cyber Friends Circle was created for a place to share information 
 
 The Cyber Friends Circle was created for a place to share information and ask questions on all things "cyber". We also enjoy talking about unrelated things to work because we are a family and it’s all about getting to know and support each other.
 
-{% include button.html text="Buy CFC a coffee ☕️" link="https://www.buymeacoffee.com/cyberfriendsC#support" color="#f68140" %} {% include button.html text="Tweet us" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} 
+{% include button.html text="Buy CFC a covfefe ☕️" link="https://www.buymeacoffee.com/cyberfriendsC#support" color="#f68140" %} {% include button.html text="Tweet us" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} 
 
 ## Features
 
