@@ -1,5 +1,5 @@
 ---
-title: About CFC
+title: About The CFC
 feature_text: |
   ## Cyber Friends Circle
   A group of misfits across industries making friendships, sharing knowledge, and talking cyber
