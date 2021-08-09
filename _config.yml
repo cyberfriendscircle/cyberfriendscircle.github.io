@@ -93,7 +93,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Cyber Friends Circle" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/whitelogo.png" # Site logo, also used in jekyll-seo-tag
-description: "Need content here" # Site description and default description, also used in jekyll-seo-tag
+description: "A group of misfits across industries making friendships, sharing knowledge, and talking cyber and life" # Site description and default description, also used in jekyll-seo-tag
 # url: "" # Site url, also used in jekyll-seo-tag
 # baseurl: ""
 # repo: "https://github.com/daviddarnes/alembic"
