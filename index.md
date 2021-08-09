@@ -4,7 +4,7 @@ feature_text: |
   ## Cyber Friends Circle
   A group of misfits across industries making friendships, sharing knowledge, and talking cyber
 feature_image: "https://github.com/cyberfriendscircle/cyberfriendscircle.github.io/raw/main/assets/female-731495_1920.jpg"
-excerpt: "The Cyber Friends Circle was created for a place to share information and ask questions on all things "cyber". We also enjoy talking about things unrelated to work because we are a family and it's all about getting to know and support each other."
+excerpt: "The Cyber Friends Circle was created for a place to share information and ask questions on all things _cyber_. We also enjoy talking about things unrelated to work because we are a family and it is all about getting to know and support each other."
 ---
 
 The Cyber Friends Circle was created for a place to share information and ask questions on all things "cyber". We also enjoy talking about things unrelated to work because we are a family and it’s all about getting to know and support each other.
