@@ -7,4 +7,4 @@ excerpt: "Some resources from the members of the Cyber Friends Circle"
 aside: true
 ---
 
-Add custom content here from the members 
+Members of The Circle include folks working within a vertical that is at least cyber adjacent, so basically anywhere - Entertainment, Journaling, IT/Cyber Services, Communications, Gov'ment, Retail, Intelligence, etc.. AKA All over. Admittence is via a trusted connection with someone already within The Circle.
