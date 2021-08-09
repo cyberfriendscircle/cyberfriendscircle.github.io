@@ -37,14 +37,14 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+jekyll-mentions: https://twitter.com/circle_cyber # jekyll-mentions > service used when @replying
 twitter:
-  username: CyberFriendsCircle # jekyll-seo-tag > Owners twitter username
+  username: circle_cyber # jekyll-seo-tag > Owners twitter username
 author: CyberFriendsCircle # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: CyberFriendsCircle # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/
+    - https://twitter.com/circle_cyber
     - https://github.com/CyberFriendsCircle
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Cyber Friends Circle" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/whitelogo.png" # Site logo, also used in jekyll-seo-tag
 description: "Need content here" # Site description and default description, also used in jekyll-seo-tag
 # url: "" # Site url, also used in jekyll-seo-tag
 # baseurl: ""
